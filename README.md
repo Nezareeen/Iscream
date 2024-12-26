@@ -2,4 +2,4 @@
 
 ## Computer
 
-<img src="./ComputerSCR.png/"git >
+<img src="./ComputerSCR.png/">
